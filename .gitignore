@@ -34,3 +34,4 @@ packages/
 
 Project/SmartBox/.vs/config/applicationhost.config
 */**/.vs/*/**
+.vs/
